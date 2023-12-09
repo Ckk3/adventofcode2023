@@ -1,4 +1,4 @@
-# Day 2
+# Day 1
 
 numbers_names = {
     "one": 1,
